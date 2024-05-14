@@ -38,6 +38,7 @@
 -Flexbox
 -Stroing color values in variable with @root 
 -Importing fonts with @fontface
+-add ":active" state using css to change color when clicked
 
 ### Useful resources
 
