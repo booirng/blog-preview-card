@@ -15,11 +15,11 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="position: relative;">
-        <img src="./desing/desktop-screenshot.png" alt="Image 1" style="width: 300px; height: auto;">
+        <img src="./design/desktop-screenshot.png" alt="Image 1" style="width: 300px; height: auto;">
         <span style="position: absolute; bottom: 0; left: 0;">windows screenshot1</span>
     </div>
     <div style="position: relative;">
-        <img src="./desing/mobile-screenshot.png" alt="Image 2" style="width: 300px; height: auto;">
+        <img src="./design/mobile-screenshot.png" alt="Image 2" style="width: 300px; height: auto;">
         <span style="position: absolute; bottom: 0; right: 0;">mobile screenshot</span>
     </div>
 </div>
