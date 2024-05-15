@@ -105,7 +105,7 @@ html, body {
 
 .wrapper .description-text p.description {
     font-family: "Figtree";
-    font-size: 14px;
+    font-size: 16px;
     color: var(--grey);
     line-height: 20px;
     /* background-color: aqua; */
