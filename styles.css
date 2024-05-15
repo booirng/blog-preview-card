@@ -12,11 +12,7 @@
 
 @font-face {
     font-family: "Figtree";
-    src: url("./assets/fonts/Figtree-Italic-VariableFont_wght.ttf") format("ttf"),
-         url("./assets/fonts/Figtree-VariableFont_wght.ttf") format("ttf"),
-         url("./assets/fonts/static/Figtree-ExtraBold.ttf") format("ttf"),
-         url("./assets/fonts/static/Figtree-SemiBold.ttf") format("ttf");
-    
+    src: url("./assets/fonts/Figtree-VariableFont_wght.ttf") format("ttf"),
 }
 
 html, body {
